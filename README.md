@@ -1,6 +1,6 @@
 # 🌾 KrishiDirect | Full-Stack Farm-to-Table E-Commerce & Traceability Platform
 
-🔗 **Live Frontend:** [https://krishidirect-farm-to-table-ezp2.vercel.app/](https://krishidirect-farm-to-table-ezp2.vercel.app/)
+🔗 **Live Frontend:** [[https://krishi-direct-farm-to-table-delta.vercel.app/](https://krishi-direct-farm-to-table-delta.vercel.app/))
 
 A complete full-stack Farm-to-Table e-commerce and supply-chain traceability web application built with **React.js**, **Tailwind CSS**, **Leaflet Maps**, **FastAPI**, and **SQLAlchemy**.
 
